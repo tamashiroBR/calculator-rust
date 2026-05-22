@@ -22,7 +22,7 @@ Uma calculadora de linha de comando segura e rápida construída em Rust, capaz 
 2. Clone o repositório
 3. Navegue até o diretório do projeto:
    ```bash
-   cd 4-calculator-rust
+   cd calculator-rust
    ```
 4. Compile e execute:
    ```bash
