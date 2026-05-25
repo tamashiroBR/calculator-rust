@@ -1,4 +1,4 @@
-# 🧮 Calculadora Avançada CLI (Rust)
+# 🧮 Calculadora CLI (Rust)
 
 Uma calculadora de linha de comando segura e rápida construída em Rust, capaz de avaliar expressões matemáticas com precedência correta de operadores.
 
