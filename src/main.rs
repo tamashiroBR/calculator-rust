@@ -186,7 +186,7 @@ impl Calculator {
 fn main() {
     let mut calculator = Calculator::new();
 
-    println!("🧮 Bem-vindo à Calculadora Avançada em Rust!");
+    println!("🧮 Bem-vindo à Calculadora em Rust!");
     println!("Suporta: +, -, *, / com precedência correta (ex: 2+3*4 = 14)\n");
 
     loop {
